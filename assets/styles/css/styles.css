@@ -638,14 +638,14 @@ footer .twitter-share-button {
   -moz-transform: rotateZ(0deg);
   transform: rotateZ(0deg);
 }
-.toggle.i .cross .x {
+.toggle.i .cross .x {/*
   margin-left: -2px;
   width: 4px;
-  margin-top: -12px;
+  margin-top: -12px;*/
 }
-.toggle.i .cross .y {
+.toggle.i .cross .y {/*
   margin-top: -4px;
-  height: 16px;
+  height: 16px;*/
 }
 
 .cross {
@@ -925,7 +925,7 @@ footer .twitter-share-button {
 }
 
 .stars{
-	background-image: url(../../images/stars.png);
+	background-image: url(../../images/Stars.png);
 	height: 100%;
 	width: 100%;
 	left: 0%;
